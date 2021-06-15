@@ -4,9 +4,6 @@
 This is Blahaj, playing Steel Drums, this is as amazing as it gets.
 
 
-Devpost page: https://devpost.com/software/blahaj-s-steel-drum-corner
-
-
 # Try it out:
 
 Link: https://ri-tae-ka.github.io/SurfUp/
